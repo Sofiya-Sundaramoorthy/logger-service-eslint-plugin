@@ -1,0 +1,1 @@
+Use https://astexplorer.net/ to write the eslint rules based on the Abstract Syntax Tree. Eslint underhood refers to the Abstract Syntax Tree which is created as a result of parser, to traverse through the nodes and apply the rules
